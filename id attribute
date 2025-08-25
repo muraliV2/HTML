@@ -1,0 +1,31 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+<style>
+#demo 
+{
+    color: green;
+    background-color: black;
+}
+#demo1
+{
+    color:blue;
+    background-color: rgba(164, 5, 227, 0.777);
+}
+#demo3
+{
+    color: violet;
+   background-color: chartreuse;
+}
+
+</style>
+<body>
+    <h1 id="demo">hello</h1>
+    <h5 id="demo1">hi da thambi</h5>
+    <p id = "demo3">Lorem ipsum dolor sit amet consectetur adipisicing elit. Sit illo eum aut ex praesentium quasi hic velit quibusdam, impedit non!</p>
+</body>
+</html>
