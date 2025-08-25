@@ -1,0 +1,25 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+<style>
+    .demo
+    {
+        color: blue;
+        background-color: black;
+    }
+    .demo2
+    {
+        color: bisque;
+        background-color: red;
+    }
+</style>
+<body>
+    <h1 class="demo">ronaldo</h1>
+    <h1 class="demo2">messi</h1>
+    <p class="demo">Lorem ipsum dolor sit amet consectetur adipisicing elit. Et iste quae quisquam vel distinctio, eius fugit! Minima nesciunt commodi reiciendis sed debitis asperiores maiores fugit repellendus? Reiciendis commodi eius quo quam, sapiente quae itaque cupiditate explicabo eos hic dolorem rem cum perferendis corrupti dolorum quia impedit odio soluta eum! Fugit sunt maxime rem optio!</p>
+</body>
+</html>
