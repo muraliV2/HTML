@@ -1,0 +1,83 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>attributes</title>
+    <style>
+    #demo
+    {
+color: white;
+background-color: red;
+    }
+    #demo1
+    {
+color: lightblue;
+background-color: black;
+    }
+    #demo2
+    {
+        color: yellow;
+        background-color: green;
+    }
+    #demo3
+    {
+        color: black;
+        background-color: blue;
+        border-radius: 20px;border-style: dotted;
+    }
+    #demo4
+    {
+        color: whitesmoke;
+        background-color: rgb(7, 171, 236);
+        border: 5px solid;
+    }
+
+    .hi
+    {
+color: red;
+background-color: rgb(153, 255, 0);border-style: dashed;border-radius: 20px;
+
+
+    }
+</style>
+</head>
+
+
+<body>
+    <h1 id="demo">Arsenal</h1>
+    <h2 id="demo1">Manchester city</h2>
+    <h2 id="demo2">Barcelona</h2>
+    <h2 id ="demo3">Inter milan</h2>
+    <h2 id ="demo4">madrid</h2>
+
+
+
+
+    <div>
+        <center>
+        <h1 class="hi">BUKAYO SAKA</h1>
+        <h1 class="hi">KAI Havertz</h1>
+        <h1 class="hi">VICTOR GYOKERES</h1>
+        <h1 class="hi">DECLAN RICE</h1>
+        <H1 class="hi">MADUEKE</H1>
+        <H1 class="hi">MARTIN ZUBIMENDI</H1>
+        <H1 class="hi">ODEGAARD</H1>
+        <H1 class="hi">CALAFIORI</H1>
+        <H1 class="hi">SALIBA</H1>
+        <H1 class="hi">GABRIEL</H1>
+        <H1 class="hi">JURRIEN TIMBER</H1>
+        <H1 class="hi">DAVID RAYA</H1>
+
+        </center>
+        <p title="paragraph">Lorem ipsum dolor, sit amet consectetur adipisicing elit. Eum doloribus fugiat alias officiis vero hic earum natus dicta fugit sapiente. Odit vero dolor at dolore odio, quae suscipit dignissimos quis, obcaecati illo accusantium neque error quisquam commodi assumenda ut a quam doloribus aperiam dolorem. Iusto tenetur excepturi obcaecati exercitationem facere.</p>
+    <center>    <H1 style="color: chartreuse;background-color: black;font-size: x-large;font-family: Verdana, Geneva, Tahoma, sans-serif;border-radius: 50px;border-style: double;">HELLO WORLD</H1>
+    <H1 style="font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif; font-style: italic;font: xx-large;color: cyan;background-color: black;border-radius: 60px;border-style: outset;">MURALI</H1></center>
+
+    </div>
+</body>
+
+
+
+
+</html>
