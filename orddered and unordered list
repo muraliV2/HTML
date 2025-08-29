@@ -1,0 +1,26 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>list document</title>
+</head>
+<body><center>
+    <ol type="A" start="6" style="color: rgb(35, 35, 234);">
+        <h1 style="font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;">CHELSEA FC</h1>
+        <li>palmer</li>
+        <li>enzo</li>
+        <li>garnacho</li>
+    </ol>
+    <hr>
+
+    <ul type = "square" style="color: rgb(180, 92, 92); font-size:xx-large;font-family: monospace;">
+        <h1 style = "font-family: cursive;">MANCHESTER UNITED</h1>
+        <li>cunha</li>
+        <li>mount</li>
+        <li>sesko</li>
+    </ul><hr>
+    
+    </center>
+</body>
+</html>
