@@ -1,0 +1,48 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=table, initial-scale=1.0">
+    <title>Document</title>
+</head>
+<body>
+    <CENTEr>
+    <table border="2" style="color: blue; background-color: rgb(239, 226, 238);border-style: dotted; ">
+       <tr></tr>
+       
+       <td>name</td>
+       <td>club</td>
+       <td>position</td>
+       <tr></tr>
+       <td>BENJAMIN SESKO</td>
+       <td>MANCHESTER UNITED</td>
+       <td>CENTER FORWARD</td>
+       <tr></tr>
+       <td>BUKAYO SAKA</td>
+       <TD>ARSENAL</TD>
+       <TD>RIGHT WINGER</TD>
+       <TR>
+        <TD>HAAALAND</TD>
+        <TD>MANCHESTER CITY</TD>
+        <TD>CENTER FORWARD</TD>
+       </TR>
+       <TR>
+        <TD>COLD PALMER</TD>
+        <TD>CHELSEA</TD>
+        <TD>ATTACKING MIDFIELDER</TD>
+       </TR>
+       <TR>
+        <TD>VAN DE VEN</TD>
+        <TD>TOTENHAM</TD>
+        <TD>CENTER BACK</TD>
+
+       </TR>
+       <TR>
+        <TD>JEREMIE FRIMPONG</TD>
+        <TD>LIVERPOOL</TD>
+        <TD>RIGHT WINGBACK</TD>
+       </TR>
+    </table>
+    </CENTEr>
+</body>
+</html>
