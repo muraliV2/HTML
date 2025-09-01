@@ -1,0 +1,55 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+<body><center>
+    <h1>PLAYER SCOUTING FORM</h1>
+    <table>
+        <tr>
+            <td>Name :</td>
+            <td><input type="text" placeholder="enter player name"></td>
+        </tr>
+        <tr>
+            <td>age :</td>
+            <td><input type="number" placeholder="enter age"></td>
+        </tr>
+        <tr>
+            <td>Enter Club :</td>
+            <td><select name="" id="">
+                <option value=""> CHELSEA</option>
+                <option value="">MANCITY</option>
+                <option value="3">Arsenal</option>
+            </select></td>
+            <tr>
+                <td><button><a href="submission.html">Submit</a></button></td>
+                <td><input type="reset" ></td>
+            </tr>
+            <tr>
+                <td>upload player stats :</td>
+                <td><input type="file"></td>
+            </tr>
+        </tr></center>
+    </table>
+</body>
+</html>
+
+
+
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>submission</title>
+</head>
+<body>
+    <center>
+        <h1>YOUR PLAYER SCOUTING FORM SUBMITTED SUCCESSFULLY</h1>
+        <button><a href="gy.html"> HOME</a></button>
+    </center>
+</body>
+</html>
