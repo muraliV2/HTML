@@ -1,0 +1,58 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+<body>
+    <center style="font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif; font-size: x-large;" >
+    <caption >TIME TABLE</caption></center>
+    <table border="1" align="center"  cellpadding = "10px" style="font-size: medium; font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;">
+       
+        <tr>
+            <th>TIMETABLE</th>
+            <TH>10AM-12PM</TH>
+            <TH>12PM-2PM</TH>
+            <TH>2PM-3PM</TH>
+            <TH>3PM-5PM</TH>
+        </tr>
+        <TR>
+            <TH align="left">Monday</TH>
+            <TD>python</TD>
+            <TD>Web</TD>
+            <TD rowspan="5" align="center">L <br>U <br> N <br> C <br> H <br> <br> B <br> R <br> E <br> A <br> K </TD>
+            <TD>SQL</TD>
+
+        </TR>
+        <tr>
+            <tH align="left">Tuesday</tH>
+            <td>SQL</td>
+            <td>DJANGO</td>
+            <!-- <td></td> -->
+            <td>Python</td>
+        </tr>
+        <tr>
+            <TH align="left">Wednesday</TH>
+            <td>Web</td>
+            <td>Python</td>
+            <!-- <td></td> -->
+            <td>Django</td>
+        </tr>
+        <tr>
+            <TH align="left">Thursday</TH>
+            <td>Django</td>
+            <td>SQL</td>
+            <!-- <td></td> -->
+            <td>Python</td>
+        </tr>
+        <tr>
+            <TH align="left">Friday</TH>
+        <td>Python</td>
+        <td>web</td>
+        <!-- <td></td> -->
+        <td>Web</td></tr>
+    </table>
+    
+</body>
+</html>
