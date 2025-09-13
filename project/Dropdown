@@ -7,7 +7,7 @@
     <script src="https://cdnjs.cloudflare.com/ajax/libs/jsbarcode/3.12.1/JsBarcode.all.min.js"></script>
 
 </head>
-<body>
+<body style="background-color: black; color: white;">
     <center>
     <details>
         <summary>DROPDOWN  FOR QRCODE</summary>
@@ -35,9 +35,11 @@
             <iframe width="560" height="315" src="https://www.youtube.com/embed/43BQY-RBxto?si=bd8hNOgwDXuHaKQm" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe> <br>
             <br>
             <iframe width="560" height="315" src="https://www.youtube.com/embed/zeESmKSLXok?si=E4BFiwh1We2jgPVF&amp;start=100" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe> <br><br>
-        <summary>GOOGLE MAPS</summary>
+        <details>
+            <summary>GOOGLE MAPS</summary>
         <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d113617.16159653812!2d-109.49691295623781!3d-27.13941156124816!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x9947fb0217260611%3A0xc7614812f982df72!2sAhu%20Tahai!5e0!3m2!1sen!2sin!4v1757786028448!5m2!1sen!2sin" width="600" height="450" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe><br><br>
         <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d113601.59204151882!2d-109.44840713860597!3d-27.15472483527373!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x9947fa60964f65d5%3A0x3d40bba732216e4f!2sAhu%20Huri%20A%20Urenga!5e0!3m2!1sen!2sin!4v1757786114510!5m2!1sen!2sin" width="600" height="450" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+    </details>
     </details><br><br>
 <details>
 <summary>Image</summary>
