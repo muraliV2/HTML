@@ -1,0 +1,66 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+    <style>
+        #demo{
+            color: aqua;
+            background-color: brown;
+            border: 10px solid blue;
+        }
+        #demo1
+        {
+            color: cornflowerblue;
+            background-color: fuchsia;
+            border: 10px solid rgb(95, 95, 245);
+
+        }
+        .re{
+            color: crimson;
+            background-color: darkslategrey;
+            border: 10px solid blueviolet;
+
+        }
+
+        p{
+color: rgb(105, 190, 190);
+background-color: burlywood;
+border: 10px solid red;
+
+        }
+        div,span
+        {
+            color: cyan;
+            background-color: coral;
+            border: 10px solid green;
+        }
+        *
+        {
+            background-color: rgb(146, 22, 255);
+        }
+    </style>
+
+
+</head>
+<body>
+    <h1 id="demo">hello world</h1>
+    <h1 id="demo1">hi kid</h1> <hr>
+
+<center >Class selector</center>
+<h2 class="re">Paulo Dybala</h2>
+<h2 class="re">Neymar jr</h2> <hr> <br>
+<center >tagname selector</center>
+<p>Lorem ipsum dolor sit amet consectetur adipisicing.</p>
+<p>Lorem ipsum dolor sit amet consectetur adipisicing.</p>
+<p>Lorem ipsum dolor sit amet consectetur adipisicing.</p>
+<p>Lorem ipsum dolor sit amet consectetur adipisicing.</p>
+<p>Lorem ipsum dolor sit amet consectetur adipisicing.</p>
+<hr>
+<center >Grouping selector</center>
+<div>aniruthian</div>
+<span>pirathish</span>
+
+</body>
+</html>
