@@ -1,0 +1,121 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+<style>
+   #qw::first-letter
+    {
+color: blue;
+font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+   font: bold; font-size: x-large;
+   background-color: brown;
+   }
+   #demo::before
+   {
+    content: "hello ";
+    color: blue;
+    font-size: x-large;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+   }
+   #demo1::after
+   {
+    content: " Mbappe";
+    color: blue;
+    background-color: cadetblue;
+    font-family: monospace;
+    font-size: 20px;
+   }
+
+   #de1::before
+   {
+    content: " 🐐";
+    color: red;
+    font-size: 26px;
+   }
+   #de2::before
+   {
+    content: " 🪄🪄";
+    color: rgba(3, 168, 239, 0.559);
+    font-size: 20px;
+
+   }
+   #de3::before
+   {
+    content: " 😒😒";
+    color: rgba(3, 168, 239, 0.559);
+    font-size: 40px;
+
+   }
+   #de4::before
+   {
+    content: " 🤷‍♂️🤷‍♀️🤷‍♀️";
+    color: rgba(3, 168, 239, 0.559);
+    font-size: 40px;
+
+   }
+
+   ol>li::marker
+   {
+    color: cornflowerblue;
+    font-size: xx-large;
+   }
+
+   #fr::selection
+   {
+    color: chartreuse;
+    background-color: black;
+
+
+   }
+   #fg::first-line
+   {
+color: hotpink;
+background-color: bisque;
+   }
+
+   ul>li::marker
+   {
+    color: darkgreen;
+    background-color: blue;
+
+   }
+</style>
+
+</head>
+<body>
+   <p id="qw">Lorem ipsum dolor, sit amet consectetur adipisicing elit. Cupiditate numquam fugiat dolores omnis inventore, impedit voluptates ratione consequuntur provident dignissimos modi cum pariatur? Obcaecati repudiandae neque quaerat at in autem?
+   </p> <hr>
+   <p id="fg"> Lorem ipsum dolor sit amet consectetur adipisicing elit. Harum architecto aspernatur illo officiis ipsum iure doloribus at inventore cum expedita dolores, tempora reprehenderit laboriosam dignissimos perspiciatis ea aliquid ipsa. Ex, illo alias iure dolore dolor autem! Aspernatur doloribus reprehenderit perspiciatis. Sunt sequi obcaecati dicta dolore!</p>
+  <hr>
+   <h1 id="demo">World</h1>
+   <hr>
+   <h2 id="demo1">Kylian</h2>
+   <hr>
+
+
+   <h3 id="de1">ronaldo</h3>
+   <h3 id="de2">messi</h3>
+   <h3 id="de3">mbappe</h3>
+   <h3 id="de4">haaland</h3>
+   
+<hr>
+   <ol>
+    <li>one</li>
+    <li>two</li>
+    <li>three</li>
+    <li>four</li>
+   </ol>
+   <hr>
+
+  
+   <p id="fr">Lorem, ipsum dolor sit amet consectetur adipisicing elit. Beatae asperiores rerum dolores reiciendis sunt modi alias iste! Illo, dolores sunt.</p>
+<hr>
+<ul  type = "circle">
+    <li>bellingham</li>
+    <li>pedri</li>
+    <li>stiller</li>
+</ul>
+</body>
+</html>
