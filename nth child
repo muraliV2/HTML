@@ -1,0 +1,23 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+    <style>
+div>:nth-child(6)
+{
+    color: indigo;
+}
+    </style>
+</head>
+<body><div>
+    <h1>penaldo</h1>
+    <h1>pessi</h1>
+    <h1>turtle</h1>
+    <p>hello</p>
+    <h1>cold palmer</h1>
+    <h1>50million down to the rain</h1>
+    </div>
+</body>
+</html>
