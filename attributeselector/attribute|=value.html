@@ -1,0 +1,23 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>|= Attribute Selector Example</title>
+  <style>
+   
+    p[lang|="en"] {
+      color: rgb(255, 12, 12);
+      background-color: teal;
+      padding: 5px;
+    }
+  </style>
+</head>
+<body>
+  <p lang="en">Exact English</p>
+  <p lang="en-US">English (US)</p>
+  <p lang="en-GB">English (UK)</p>
+  <p lang="en fr">French</p>
+</body>
+</html>
+it will check the value and also check the - 
