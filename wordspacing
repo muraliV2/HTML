@@ -1,0 +1,17 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+    <style>
+        p
+        {
+            word-spacing: 20px;
+        }
+    </style>
+</head>
+<body>
+    <p>Lorem ipsum dolor sit amet consectetur, adipisicing elit. Id blanditiis facilis, quae nemo aut hic repellendus, debitis natus eaque facere illum similique laborum minus et incidunt omnis nesciunt dolore eligendi. Necessitatibus autem pariatur voluptate facilis nostrum magni totam placeat earum.</p>
+</body>
+</html>
