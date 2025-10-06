@@ -1,0 +1,26 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+    <style>
+        #hi
+        {
+            height: 110px;
+            width: 110px;
+            border:solid;
+            background-color: chartreuse;
+            background-color: rgb(2370, 233,200);
+            background-color: #ba155c;
+            background-color: rgb(111, 90,1,0.6);
+            background-color: hsl(270,29%,59%);
+            background-color: hsl(190, 50%, 69%,0.5);
+            
+        }
+    </style>
+</head>
+<body>
+    <h1 id="hi"> hi</h1>
+</body>
+</html>
