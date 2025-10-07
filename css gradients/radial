@@ -1,0 +1,35 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+    <style>
+        #anisav
+        {
+            width: 200px;
+            height: 200px;
+            border: solid black;
+           background-image: radial-gradient(red,blue,yellow,green,violet,brown);
+
+
+        }
+        #savani
+        {
+            width: 200px;
+            height: 200px;
+            border: solid;
+            background-image: repeating-radial-gradient(red 40%,blue 30%,green 60%,purple 50%,yellowgreen 70%);
+
+
+        }
+    </style>
+</head>
+<body>
+    <div id = "anisav">
+
+    </div>
+    <br>
+     <div id="savani"></div>
+</body>
+</html>
