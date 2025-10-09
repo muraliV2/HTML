@@ -1,0 +1,35 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Z-index Example</title>
+<style>
+    #hi {
+        height: 300px;
+        width: 300px;
+        border: 1px solid black;
+        background-color: red;
+        z-index: 90;
+        position: absolute;
+        top: 50px;
+        left: 50px;
+        opacity: 0.5;
+    }
+    #hi1 {
+        height: 300px;
+        width: 300px;
+        border: 1px solid black;
+        background-color: blue;
+        z-index: 100;
+        position: absolute; 
+        left: 65px;
+        opacity: 0.8;
+    }
+</style>
+</head>
+<body>
+    <div id="hi"></div>
+    <div id="hi1">hiii</div>
+</body>
+</html>
