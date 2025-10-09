@@ -1,0 +1,42 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Sticky Example</title>
+  <style>
+    #hi1, #hi2, #hi3, #hi4 {
+      height: 100px;
+      width: 100px;
+      border: solid 2px;
+      margin-bottom: 20px;
+    }
+
+    #hi1 { border-color: rgb(251, 9, 9); }
+
+    #hi2 {
+      border-color: rgb(122, 9, 251);
+      position: sticky;
+      top: 50px; /* sticks when scrolled to this point */
+      background-color: white;
+      left: 500px; /* optional horizontal position */
+    }
+
+    #hi3 { border-color: rgb(25, 251, 9); }
+    #hi4 { border-color: rgb(228, 253, 3); }
+
+    body {
+      background-image: url("https://cdn.pixabay.com/photo/2025/09/09/18/12/moon-9824889_1280.png");
+      background-repeat: no-repeat;
+      background-size: cover;
+      height: 2000px;
+    }
+  </style>
+</head>
+<body>
+  <div id="hi1"></div><br>
+  <div id="hi2"></div><br>
+  <div id="hi3"></div><br>
+  <div id="hi4"></div>
+</body>
+</html>
