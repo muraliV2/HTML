@@ -1,0 +1,90 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+    <style>
+        #di
+        {
+            height: 130rem;
+            width: 140rem;
+            border: solid white;
+            position: absolute;
+            left: 10%;
+            top: 10%;
+            background-color: white;
+            border-radius: 20px;
+        }
+        #ig
+        {
+            height: 130rem;
+            width: 60rem;
+            border-radius: 30px;
+        }
+        #pr
+        {
+          font-size: 5rem; 
+          letter-spacing: 15px;
+          font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+          font-weight: bolder;
+           margin-left: 5%;
+        }
+        #per
+        {
+           font-size: 100px;
+           margin-left: 5%;
+           margin-right: 7%;
+           font-weight: bolder;
+
+
+
+        }
+        #fl
+        {
+            margin-left: 5%;
+            font-size: 90px;
+            margin-right: 7%;
+            font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+           padding: 10px;
+        }
+        #rate
+        {
+             margin-left: 5%;
+            font-size: 130px;   
+            color: green;
+        }
+        button
+        {
+            font-size: 50px;
+            height: 5rem;
+            border-radius: 30px;
+            margin-left: 5%;
+            margin-right: 5%;
+            color: white;
+            background-color: green;
+        }
+        body
+        {
+            background-color: antiquewhite;
+        }
+    </style>
+</head>
+
+<body>
+    <div id="di">
+        <span style="display: flex; align-items: flex-start; gap: 10px;">
+            <img src="./1280w-pAjkFbMUkeE.webp" alt="" id="ig">
+ <div style="display: flex; flex-direction: column; gap: 1px;">
+      <p id="pr">Perfume</p>
+      <p id="per">Gabrriele Essence Eau De Parfum</p>
+      <p id="fl">A Floral,Solar and Values interpretation Composed By Oliver polge,Perfume-Creator for the house of Elegance</p>
+      <p id="rate">$199.99 </p>
+      <button>🛒 ADD TO CART</button>
+        </span>
+        
+
+
+    </div>
+</body>
+</html>
