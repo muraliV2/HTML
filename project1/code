@@ -1,0 +1,102 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+    <style>
+        #div1
+        {
+            border: solid 5px;
+            height: 120rem;
+            width: 100rem;
+            color: black;                      
+           position: absolute;       
+               top:   10%;
+             left: 25%; 
+             z-index: 20px;box-shadow: 10px 10px 10px 10px black;
+             border-radius: 25px;
+             background-color: white;
+        }
+            #pic {
+      height: 50rem;
+      width: 90rem;
+      border-radius: inherit;
+      margin-top: 5%;
+      margin-left: 5%;
+      object-fit: cover;
+    }
+
+    #lear {
+        font-size: 50px;
+        border: 20px;
+        font-weight: bold;
+        font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif ;
+      background-color: yellow;
+      display: inline-block;
+      padding: 10px 20px;
+      border-radius: 10px;
+      margin-top: 20px;
+      margin-left: 5%;
+    }
+    #pub
+    {
+        margin-top: 20px;
+       margin-left: 5%;
+       font-size: 50px;
+       font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+       font-weight: bold;
+    }
+    #html1
+    {
+        text-align: center;
+        font-size: 100px;
+        font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    
+    }
+    #lan
+    {
+        font-size: 70px;
+        margin-left: 5%;
+        margin-right: 5%;
+        text :align center;
+        font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+        font-weight: lighter;
+        
+    }
+    #im
+    {
+        margin-left: 5%;
+        height: 8rem;
+        
+    }
+    #jj
+    {
+        font-size: 4rem;
+        font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+        font-weight: bold;
+    }
+ body {
+  background-color: #f5df1b;
+}
+   
+    
+    </style>
+</head>
+<body id="bk">
+    <div id="div1">
+        <img src="./Screenshot 2025-10-14 230908.png" class="img-fluid ${3|rounded-top,rounded-right,rounded-bottom,rounded-left,rounded-circle,|}" alt="" id="pic">
+        <br>
+        <p id="lear">Learning</p>
+        <p id="pub">Published 21 Dec 2025</p>
+    <h1 id="html1">HTML & CSS Foundations</h1>
+    <p id="lan">These Languages are the Backbone of Every Website,Defining Structure,Content and presentation</p>
+   <span style="display: flex; align-items: center; gap: 20px;">
+       
+    <img src="./image-avatar.webp" alt="" id="im"> 
+     <p id="jj">murali</p>
+    </span>
+    </div>
+    
+</body>
+</html>
