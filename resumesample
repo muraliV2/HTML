@@ -1,0 +1,31 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>resume</title>
+</head>
+<body>
+   <center>
+    <h1>MURALI</h1>
+  
+    <h4style color style="color: green;">Full Stack Developer</h4style>
+     <br>
+    <div> 123 4th Street</div>
+    <div>stoke city,ethihad</div>
+    <div>ph : 23895 98734</div>
+    <div>muralisurya2004@gmail.com</div>
+    <br>
+    <h4style color style="color: green;">Skills</h4style>
+    <p>HTMl,CSS,CORE JAVA,SQL,WEB DESIGN</p> 
+    <h4 style="color:green "> Education</h4>
+    <div style="color:rgb(0, 140, 255)">La Masia School</div>
+
+    <h4 style="color:green "> Experience</h4>
+    <div style="color:rgb(0, 140, 255)">StAndard Chartered</div>
+     <h4 style="color:green "> Across the internet</h4>
+    <div> linkedin,github </div>
+
+</center>
+</body>
+</html>
