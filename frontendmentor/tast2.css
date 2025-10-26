@@ -1,0 +1,149 @@
+* {
+    margin: 6px;
+    padding: 0;
+}
+body {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    min-height: 100vh;
+    margin: 0;
+    gap: 0px;
+    background-color: bisque;
+}
+
+#bord {
+    height: 49rem;
+    width: 25rem;
+    border: none;
+    border-radius: 20px;
+    display: flex;
+    flex-direction: column; 
+    align-items: center;  
+    background-color: white;
+}
+
+#om {
+    height: 8rem;
+    width: 24rem;
+    border-radius: 20px;
+    position: relative;
+    top: 5px;
+}
+
+#simp{
+    display: flex;
+    flex-direction: column;
+    position: relative;
+    left: -20px; 
+    
+}
+#pp
+{
+ position: relative;
+ left: 6px;
+ 
+ color: darkgray; 
+ font-size: 10px;
+ 
+}
+#pink
+{
+    height: 5rem;
+    width: 22rem;
+    border: solid white;
+    background-color:palevioletred;
+    opacity: 80%;
+    border-radius: 10px;
+    position: relative;
+    gap: 10px;
+}
+#pre
+{
+   
+    position: absolute;
+    font-size: 15px;
+    color: #000000;
+    opacity: 10px;
+    top: -2px;
+    left: 2px;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    color: rgb(146, 13, 57);
+    
+
+}
+#list
+{
+    color: black;
+    position: absolute;
+    font-size: 11px;
+    opacity: 10px;
+    top: 13px;
+    left: 10px;
+}
+#ing{
+    position: relative; 
+    left: -150px;
+    font-size: 15px;
+    font-weight: bold;
+    color: saddlebrown;
+}
+#ing1{
+    position: relative; 
+    font-size: 10px;
+    left: -60px;
+    top: -10px;
+    color: rgb(90, 85, 85);
+}
+li
+{
+    color: rgb(90, 85, 85);
+}
+#ing3{
+    position: relative; 
+    left: -150px;
+    font-size: 15px;
+    font-weight: bold;
+    color: saddlebrown;
+}
+#ing4{
+    position: relative; 
+    font-size: 10px;
+    left: 10px;
+    top: -10px;
+   color: rgb(90, 85, 85);
+    
+}
+.ty{
+    color: black;
+}
+.we
+{
+    color: saddlebrown;
+    font-size: 13px;
+}
+table
+{
+    width: 23rem;
+    border-collapse: collapse;
+    border-top: 2px darkgray;
+    border-left: none white;
+    border-right: none white;
+    font-size: 15px;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+
+}
+#nut
+{
+    color: saddlebrown;
+    font-weight: bold;
+    position: relative;
+    left: -9.5rem;
+    font-size: 15px;
+}
+#pr
+{
+    font-size: 10px;
+    color: rgb(91, 91, 91);
+}
