@@ -1,0 +1,31 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Basic HTML with List</title>
+</head>
+<body>
+
+  <h1>My Favorite Fruits</h1>
+
+  <!-- Unordered List -->
+  <ul>
+    <li>Apple</li>
+    <li>Banana</li>
+    <li>Orange</li>
+    <li>Mango</li>
+  </ul>
+
+  <h2>Steps to Make Tea</h2>
+
+  <!-- Ordered List -->
+  <ol>
+    <li>Boil water</li>
+    <li>Add tea leaves</li>
+    <li>Pour into cup</li>
+    <li>Add sugar and milk</li>
+  </ol>
+
+</body>
+</html>
