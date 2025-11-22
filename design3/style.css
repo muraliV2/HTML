@@ -1,0 +1,148 @@
+body
+{
+    margin: 0;
+    padding: 0;
+height: 100vh;
+    display: grid;
+    align-items: center;
+    justify-items: center;
+}
+h2,h1,p{
+    margin: 0;
+    padding: 30px;
+     gap: 20px;
+}
+
+#cont
+{
+    height: 600px;
+    width: 40%;
+    border: 1px solid none;
+    display: grid;
+    box-shadow: 1px 1px 10px black;
+   
+    
+}
+#b1
+{
+    height: 300px;
+    width: 100%;
+    border: 1px solid none;
+    /* margin: 30px; */
+    display: grid;
+   
+ 
+    
+    
+}
+#innerbox
+{
+    display: grid;
+    grid-auto-flow: column;
+}
+#b2
+{
+ height: 300px;
+    width: 100%;
+    border: 1px solid none;
+   background-color: #2BB7B3;
+}
+
+#b3
+{
+ height: 300px;
+    width: 100%;
+    border: 1px solid none;
+    background-color: #31c7c3;
+}
+
+#hd
+{
+    color: rgb(19, 118, 118);
+}
+#hd1
+{
+    margin-top: -30px;
+    color: rgb(160, 200, 79);
+}
+#para
+{
+    margin-top: -30px;
+    font-size: 23px;
+   text-align: justify;
+   color:darkgrey;
+   
+}
+#head
+{
+  padding: 0;
+  margin: 0;
+  font-size: 20px;
+  margin-left: 30px;
+  margin-top: 30px;
+  color: white;
+  font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+#in
+{
+    width: 80%;
+    height: 45px;
+    margin-left: 30px;
+   margin-top: 30px;
+    border: 1px solid none;
+    position: relative;
+}
+#oe
+{
+    font-size: 35px;
+    left: -20px;
+    top: -30px;
+    position: absolute;
+    font-family: Arial, Helvetica, sans-serif;
+    color: white;
+}
+#oe1
+{
+ font-size: 20px;
+    left: 45px;
+    top: -30px;
+    position: absolute;  
+    color: white; 
+}
+#pa
+{
+    padding: 0;
+    margin: 0;
+    margin-left: 30px;
+    margin-top: 15px;
+    font-size: 20px;
+    color: azure;
+}
+#btn
+{
+    height: 40px;
+    width:80%;
+    margin-top: 30px;
+    margin-left: 30px;
+    background-color: rgb(154, 237, 71);
+    color: white;
+    border-radius: 8px;
+    font-size: 20px;
+    
+}
+h5
+{
+    margin: 0px;
+    padding: 0px;
+    margin-left: 40px;
+    margin-bottom: 8px;
+    font-size: 18px;
+    color: white;
+
+}
+#head1
+{
+    margin: 0;
+    margin-left: 10px;
+    color: white;
+}
