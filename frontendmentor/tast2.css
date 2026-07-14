@@ -29,7 +29,6 @@ body {
     position: relative;
     top: 5px;
 }
-
 #simp{
     display: flex;
     flex-direction: column;
